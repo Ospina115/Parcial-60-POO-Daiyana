@@ -1,0 +1,4 @@
+102030;Juan Jerez;3.45;34
+112233;Lina Luna;3.82;16
+445566;Luis Lopez;4.21;36
+708090;Pedro Perez;3.68;28
