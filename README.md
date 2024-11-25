@@ -14,6 +14,7 @@ El archivo de texto, contiene la siguiente información:
 
  
 
+```json
 102030;Juan Jerez;3.45;34
 
 112233;Lina Luna;3.82;16
@@ -21,14 +22,19 @@ El archivo de texto, contiene la siguiente información:
 445566;Luis Lopez;4.21;36
 
 708090;Pedro Perez;3.68;28
+```
 
- 
+
 
 Construya la interfaz gráfica para actualizar el promedio y los créditos de cada estudiante almacenado. Para esto el programa debe pedir los datos del promedio obtenido en el semestre y los créditos aprobado en el semestre para cada estudiante. Con esos datos y los valores que tiene almacenado el objeto de cada estudiante aplicar la siguiente fórmula:
 
-NuevoPromedio= ( (promedio * créditos) + (promedioSemestre * creditosSemestre)) / (créditos + creditosSemestre)
 
- 
+
+```java
+NuevoPromedio= ( (promedio * créditos) + (promedioSemestre * creditosSemestre)) / (créditos + creditosSemestre)
+```
+
+
 
 El número de créditos también se debe actualizar.
 
